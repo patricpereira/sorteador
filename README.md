@@ -1,6 +1,6 @@
 # 🎲 Projeto Sorteador
 
-Este repositório contém o projeto **Sorteador**, desenvolvido como parte do curso:
+Este repositório contém o projeto **Sorteador**, fornecido pela alura como parte do curso:
 
 **Git e GitHub: compartilhando e colaborando em projetos** da Alura.
 
@@ -34,7 +34,7 @@ Durante o desenvolvimento deste projeto, foram revisados os seguintes tópicos:
 
 ## 📌 Observações
 
-Este projeto tem fins educacionais e foi desenvolvido como parte do processo de aprendizado em controle de versão e colaboração em equipe.
+Este projeto tem fins educacionais e foi utilizado como parte do processo de aprendizado em controle de versão e colaboração em equipe.
 
 ---
 
